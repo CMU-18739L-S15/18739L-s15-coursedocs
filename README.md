@@ -270,8 +270,7 @@ check git's timestap.  Please do not ask for late days unless there
 was a true medical emergency. I die a little when I get asked for late
 days.
 
-  * 1/12. First day of class.  Everyone signs up for picoctf. Does
-    problems for level 1-4.
+  * 1/12. First day of class.  Everyone signs up for picoctf. .
   * 1/14. jburket presents picoCTF level 4: two problems. 
   * 1/19. No class. Martin Luther King Day
   * 1/21. Wargame walkthroughs. 
