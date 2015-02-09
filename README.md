@@ -328,3 +328,59 @@ days.
   * [LiveCTF](http://www.twitch.tv/livectf)
   * [Practice CTF List and Archive](http://captf.com/practice-ctf/)
 
+## Updates!
+
+### Feb 9, 2015
+
+I am interested in adding a cyber-physical component to CTFs, and
+encourage problems in this space. As such, I am happy to fund the
+following hardware for any good CTF ideas.  "Good" will be determined
+by me; just run the idea me informally before or after class.
+
+The challenge here is to make the problem **integral** to the
+problem. For example, a buffer overflow where on success you get
+access to the robot is kind of boring, as the robot itself is just
+acting as a scoreboard.  Think in terms of the robot capability. For
+example, if you get access to the camera, make doing something with
+the camera (that is related to computer security) part of the
+problem. Perhaps the problem itself is only revealed when you get to a
+location, and the ability to navigate the robot helps determine the
+fidelity and thus difficulty of the problem. Be creative!
+
+I also challenge you to think out of the existing CTF box.  For
+example, I've not seen any CTFs that are 1-on-1 or team-to-team (there
+may be such things, but they seem less popular if so).  Having just
+two teams compete for a goal seems interesting, and potentially easier
+to deal with than a larger contest. (Note you can always scale by
+running multiple sessions in parallel and having brackets.)
+
+
+In particular, I have the following equipment that you can use:
+  * A
+    [Sumo Jumping Robot](http://www.amazon.com/Parrot-Mini-Drone-Jumping-White/dp/B00KQPPG30). These
+    robots have a camera, can drive around, and best of all, can jump!
+    They run their own ad-hoc wifi network.  They also run busybox
+    linux.  Once connected to the network, you can simply do:
+    ```
+    $ nc <ip address> 23
+    ```
+    and get a shell.
+
+  * A
+    [Tenvis IP camera](http://www.amazon.com/TENVIS-Surveillance-Microphone-monitoring-Black/dp/B006GLAUWU). I've
+    not played with these yet.
+
+ * [Foscam IP Cameras](http://www.amazon.com/gp/product/B004UMN6VE/ref=oh_aui_detailpage_o06_s00?ie=UTF8&psc=1)     Use `curl` to grab images live.  Note that out-of-the-box these
+    cameras seem to die when you `nmap` them; you would need to figure
+    out a way to make the challenge robust.
+
+ * Z-wave IoT equipment, including a
+   [multi-sensor](http://www.amazon.com/gp/product/B008D5TYGU/ref=oh_aui_detailpage_o09_s01?ie=UTF8&psc=1),
+   a
+   [USB dongle](http://www.amazon.com/gp/product/B003MWQ30E/ref=oh_aui_detailpage_o09_s01?ie=UTF8&psc=1)
+   (for say a host computer), and a
+   [smart energy switch](http://www.amazon.com/gp/product/B007UZH7B8/ref=od_aui_detailpages00?ie=UTF8&psc=1)
+   (for safe remote control of a power outlet).
+
+I am happy to consider other equipment, but the above should provide
+some nice possibilities. 
