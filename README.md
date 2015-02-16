@@ -333,7 +333,7 @@ days.
 ### Feb 9, 2015
 
 I am interested in adding a cyber-physical component to CTFs, and
-encourage problems in this space. As such, I am happy to fund the
+encourage problems in this space as part of our class requirement. As such, I am happy to fund the
 following hardware for any good CTF ideas.  "Good" will be determined
 by me; just run the idea me informally before or after class.
 
@@ -382,5 +382,6 @@ In particular, I have the following equipment that you can use:
    [smart energy switch](http://www.amazon.com/gp/product/B007UZH7B8/ref=od_aui_detailpages00?ie=UTF8&psc=1)
    (for safe remote control of a power outlet).
 
-I am happy to consider other equipment, but the above should provide
-some nice possibilities. 
+I am happy to consider other equipment (say an RFID reader, or a DIY
+electronic door lock), but the above should provide some nice
+possibilities.
