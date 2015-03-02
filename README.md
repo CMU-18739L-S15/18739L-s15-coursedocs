@@ -301,9 +301,9 @@ days.
     proposal 2 and research project proposal due.~~
 
 **At this point, you will have completed a large portion of picoctf,
-    microcorruption, and IO. You will have also done one real ctf. You
-    will have created 2 problems. I would guess you have moved at
-    least beyond beginner to the intermediate phase.**
+    microcorruption, and ~~IO. You will have~~ also done one real ctf. You
+    will have created ~~2~~ 1 problem. I would guess you have moved at
+    least beyond beginner to the intermediate phase. Congratulations! **
 
   * 3/9. No class. Spring Break.
   * 3/11. No class. Spring Break.
@@ -312,9 +312,9 @@ days.
   * _3/21._ CTF Problem 2 proposal due. ~~CTF Problem 2 due. Note: not a class day.~~
   * 3/23. 1-on-1 meetings with David in class re: research proposals. ~~In-class meetings with David on proposals. Rest of class~~
     plays through CTF problems with feedback. CTF Problem 3 proposal due.~~
-  * 3/25. Wargame walkthrough. ~~and feedback on proposals.
+  * 3/25. Wargame walkthrough. ~~and feedback on proposals.~~
   * 3/30. Wargame walkthrough.
-  * 4/1.  Research update #1. Wargame walkthrough. ~~webhacking.kr due. CTF Problem 3 due. ~~
+  * 4/1.  Research update #1. Wargame walkthrough. ~~webhacking.kr due. CTF Problem 3 due.~~
   * 4/6.  IO due. ~~CTF Problem 3 play through. Start on user choice wargame.~~
   * 4/8.  Research update 2. Append 1 more page of a status report update. ~~Status report on projects with David during class time.~~
   * 4/13. CTF Problem 2 due. ~~Wargame walkthrough.~~
