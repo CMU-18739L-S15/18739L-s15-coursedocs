@@ -315,10 +315,10 @@ days.
   * 3/25. Wargame walkthrough. ~~and feedback on proposals.~~
   * 3/30. Wargame walkthrough.
   * 4/1.  Research update #1. Wargame walkthrough. ~~webhacking.kr due. CTF Problem 3 due.~~
-  * 4/6.  IO due. ~~CTF Problem 3 play through. Start on user choice wargame.~~
-  * 4/8.  Research update 2. Append 1 more page of a status report update. ~~Status report on projects with David during class time.~~
+  * 4/6.  Wargame walkthrough. ~~CTF Problem 3 play through. Start on user choice wargame.~~
+  * 4/8.  IO due. ~~Status report on projects with David during class time.~~
   * 4/13. CTF Problem 2 due. ~~Wargame walkthrough.~~
-  * 4/15. Research Update #2 Note Carnival runs 4/17 - 4/20, with PlaidCTF.
+  * 4/15. Research Update #3. Note Carnival runs 4/17 - 4/20, with PlaidCTF.
   * 4/20. CTF Problem 2 gameplay. ~~Wargame walkthrough.~~
   * 4/22. Final project presentations
   * 4/27. Final project presentations
