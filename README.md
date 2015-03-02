@@ -17,7 +17,7 @@ what you get out is heavily influenced by how much you put in.
 
 Why do we focus on CTFs? Because they are a microcosm that demonstrate
 larger computer security concepts, problems, and skills.  CTF problems
-tend to be "smaller" than real life problems, but by being small they
+tend to be smaller than real life problems, but by being small they
 allow us to focus on specific ideas.
 
 **Warning:** If you have not done previously done either (a) CTF
@@ -72,21 +72,21 @@ me. Therefore, we have a somewhat different structure to this class:
     teach it to someone else. However, my experience is course
     presentations of assigned topics tend to not work well.  In this
     class we will try a more experimental approach where students
-    describe what they are "stuck" on, and other students try and help
+    describe what they are stuck on, and other students try and help
     them through. 
   * Develop new challenges. Students will develop CTF problems.  This
     may seem simple, e.g., buffer overflows are created by mistake
     each day, how hard could it be to create an intentional one?
     However, it's more tricky.  Designing a problem
     [requires careful consideration](http://captf.com/maxims.html) so
-    that players have the "aha" moment when solving it. (Note even
+    that players have the _aha_ moment when solving it. (Note even
     PPP, a very experienced team that creates over 100 challenges a
     year, throw out tons more because they aren't good enough.)
 
 
 ## Practice
 
-We will practice by solving "wargame" challenges (security challenges
+We will practice by solving _wargame_ challenges (security challenges
 that are not part of a competition) as well as participate in real
 CTFs. By the end of this semester you will have completed picoCTF,
 microcorruption, IO, ~~webhacking.kr, and one wargame of your
@@ -307,10 +307,10 @@ days.
 
   * 3/9. No class. Spring Break.
   * 3/11. No class. Spring Break.
-  * 3/16. Research proposal due (see below). Start on IO. ~~Start on webhacking.kr. ~~
+  * 3/16. Research proposal due (see below). Start on IO. ~~Start on webhacking.kr.~~
   * 3/18. CTF Problem Proposal 2 due in git by start of class. Individual meetings on proposals. ~~No class. Work on research and CTF problem.~~
   * _3/21._ CTF Problem 2 proposal due. ~~CTF Problem 2 due. Note: not a class day.~~
-  * 3/23. 1-on-1 meetings with David in class re: research proposals. ~~In-class meetings with David on proposals. Rest of class~~
+  * 3/23. 1-on-1 meetings with David in class re: research proposals. ~~In-class meetings with David on proposals. Rest of class
     plays through CTF problems with feedback. CTF Problem 3 proposal due.~~
   * 3/25. Wargame walkthrough. ~~and feedback on proposals.~~
   * 3/30. Wargame walkthrough.
@@ -342,23 +342,20 @@ pages long, single spaced, 11pt font, with 1 inch margins.  We
 strongly encourage and prefer LaTeX. Word documents look ugly.
 
 The proposal should have the following structure:
+
   * Introduction. What are you doing? Why does it deserve automation?
     Give several specific examples where your research would help
     solve CTF problems.
-
   * Approach. Describe the technical approach you will take. Use a
     running example to highlight the specific problem and analysis
     reasoning steps.
-
   * Implementation and Evaluation. Describe how you will implement
     your approach.  In the proposal, describe which programs you plan
     to evaluate on.  Be particular, and check those programs into
     git.
-
   * Related work. Provide an annotated bibliography of work in the
   field.  Please do not just provide a laundry list of abstract
   summaries: show some understanding.
-
   * Updates.  This section will be initially blank.  You will fill it
   in with the updates as you progress.
 
@@ -372,7 +369,7 @@ are doing.
 
 I am interested in adding a cyber-physical component to CTFs, and
 encourage problems in this space as part of our class requirement. As such, I am happy to fund the
-following hardware for any good CTF ideas.  "Good" will be determined
+following hardware for any good CTF ideas.  Good will be determined
 by me; just run the idea me informally before or after class.
 
 The challenge here is to make the problem **integral** to the
