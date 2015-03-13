@@ -124,7 +124,7 @@ we will walk around and check to see what level you are on.
       1, 2015. Note this is not a regular class time! Participation
       means working at least 10 hours total.  Required.
  * Ghost in the shell: Jan 16-18, 2015. Optional. Extra Credit.
- * Codegate (when announced). Required. 
+ * Codegate March 14-15, 2015. Optional. 
 
 Students should register using a name that is prefixed with CMU
 (assuming you are not competing as PPP). We will use github to map
