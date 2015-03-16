@@ -89,8 +89,7 @@ me. Therefore, we have a somewhat different structure to this class:
 We will practice by solving _wargame_ challenges (security challenges
 that are not part of a competition) as well as participate in real
 CTFs. By the end of this semester you will have completed picoCTF,
-microcorruption, IO, ~~webhacking.kr, and one wargame of your
-choice.~~ You will also have completed two CTFs.
+microcorruption, and IO. You will also have completed two CTFs.
 
 ### Wargames
 
@@ -103,7 +102,6 @@ choice.~~ You will also have completed two CTFs.
     Level 6: C, Level 5: D, Level 4: F.  If you have already done some
     of the levels in the x86 version, please try doing levels in the
     ARM version.
-  * ~~[Web hacking](http://webhacking.kr/): TBD.~~
 
 All wargames must be done individually. Wargames often require an
 account. In such cases the student should register an account, and
@@ -289,40 +287,37 @@ days.
 
   * _2/15_ noon: CTF problem 1 proposal due. Note this is not a class day.
   * 2/16. CTF problem 1 proposal discussion in class. 
-  * 2/18. Microcorruption due.  ~~Start on IO.~~
-  * 2/23. Wargame walkthroughs.  ~~CTF problem 1 code due.~~
-  * 2/25. ~~CTF problem 1 play-through in class. If you don't have code
-    that builds and integrate, you will get a zero! You have been warned.~~ Walkthroughs
+  * 2/18. Microcorruption due.
+  * 2/23. Wargame walkthroughs.
+  * 2/25. Walkthroughs
   * 2/27 - 3/1: Boston Key Party Party. We will reserve a room, and
     get food. 10 hours total of time. There will be a log. Scouts honor.
   * 3/2. Boston Key Party Review.
   * 3/3. CTF Problem 1 due by 12:00pm. 
-  * 3/4. Class CTF Play Test. ~~IO due. Note research problem proposals and CTF problem
-    proposal 2 and research project proposal due.~~
+  * 3/4. Class CTF Play Test.
 
 **At this point, you will have completed a large portion of picoctf,
-    microcorruption, and ~~IO. You will have~~ also done one real ctf. You
-    will have created ~~2~~ 1 problem. I would guess you have moved at
+    microcorruption, and also done one real ctf. You
+    will have created 1 problem. I would guess you have moved at
     least beyond beginner to the intermediate phase. Congratulations! **
 
   * 3/9. No class. Spring Break.
   * 3/11. No class. Spring Break.
-  * 3/16. Research proposal due (see below). Start on IO. ~~Start on webhacking.kr.~~
-  * 3/18. CTF Problem Proposal 2 due in git by start of class. Individual meetings on proposals. ~~No class. Work on research and CTF problem.~~
-  * _3/21._ CTF Problem 2 proposal due. ~~CTF Problem 2 due. Note: not a class day.~~
-  * 3/23. 1-on-1 meetings with David in class re: research proposals. ~~In-class meetings with David on proposals. Rest of class
-    plays through CTF problems with feedback. CTF Problem 3 proposal due.~~
-  * 3/25. Wargame walkthrough. ~~and feedback on proposals.~~
+  * 3/16. Research proposal due (see below). Start on IO.
+  * 3/18. *To be clarified*: CTF Problem Proposal 2 due in git by start of class. Individual meetings on proposals.
+  * _3/21._ *To be clarified*: CTF Problem 2 proposal due.
+  * 3/23. 1-on-1 meetings with David in class re: research proposals.
+  * 3/25. Wargame walkthrough.
   * 3/30. Wargame walkthrough.
-  * 4/1.  Research update #1. Wargame walkthrough. ~~webhacking.kr due. CTF Problem 3 due.~~
-  * 4/6.  Wargame walkthrough. ~~CTF Problem 3 play through. Start on user choice wargame.~~
-  * 4/8.  IO due. ~~Status report on projects with David during class time.~~
-  * 4/13. CTF Problem 2 due. ~~Wargame walkthrough.~~
+  * 4/1.  Research update #1. Wargame walkthrough.
+  * 4/6.  Wargame walkthrough.
+  * 4/8.  IO due.
+  * 4/13. CTF Problem 2 due.
   * 4/15. Research Update #3. Note Carnival runs 4/17 - 4/20, with PlaidCTF.
-  * 4/20. CTF Problem 2 gameplay. ~~Wargame walkthrough.~~
+  * 4/20. CTF Problem 2 gameplay.
   * 4/22. Final project presentations
   * 4/27. Final project presentations
-  * 4/29. Final project presentations. ~~Final wargame due.~~
+  * 4/29. Final project presentations.
 
 
 ## Reading
