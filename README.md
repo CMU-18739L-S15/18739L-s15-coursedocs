@@ -304,8 +304,7 @@ days.
   * 3/9. No class. Spring Break.
   * 3/11. No class. Spring Break.
   * 3/16. Research proposal due (see below). Start on IO.
-  * 3/18. *To be clarified*: CTF Problem Proposal 2 due in git by start of class. Individual meetings on proposals.
-  * _3/21._ *To be clarified*: CTF Problem 2 proposal due.
+  * 3/18. CTF Problem Proposal 2 due in git by start of class. Individual meetings on proposals.
   * 3/23. 1-on-1 meetings with David in class re: research proposals.
   * 3/25. Wargame walkthrough.
   * 3/30. Wargame walkthrough.
