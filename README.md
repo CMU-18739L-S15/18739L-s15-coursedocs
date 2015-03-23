@@ -304,15 +304,16 @@ days.
   * 3/9. No class. Spring Break.
   * 3/11. No class. Spring Break.
   * 3/16. Research proposal due (see below). Start on IO.
-  * 3/18. CTF Problem Proposal 2 due in git by start of class. Individual meetings on proposals.
-  * 3/23. 1-on-1 meetings with David in class re: research proposals.
-  * 3/25. Wargame walkthrough.
+  * 3/18. CTF Problem proposal 2 due. Wargame walkthrough (kvikramj, wsnavely).
+  * 3/23. class canceled. 
+  * 3/25. CTF Problem Proposal 2 5 minute lightening talks
   * 3/30. Wargame walkthrough.
-  * 4/1.  Research update #1. Wargame walkthrough.
-  * 4/6.  Wargame walkthrough.
-  * 4/8.  IO due.
-  * 4/13. CTF Problem 2 due.
-  * 4/15. Research Update #3. Note Carnival runs 4/17 - 4/20, with PlaidCTF.
+  * 4/1.  Research update #1. Wargame walkthrough (cganas, rvantond)
+  * 4/6.  Wargame walkthrough (edwillia, Sailesh)
+  * 4/8.  IO due. Wargame walkthrough (cdw1, rajivk)
+  * 4/13. CTF Problem 2 due. Wargame walkthrough (jlareau, ecwong)
+  * 4/15. Research Update #3. In class meetings
+  * _Note Carnival runs 4/17 - 4/20, with PlaidCTF._
   * 4/20. CTF Problem 2 gameplay.
   * 4/22. Final project presentations
   * 4/27. Final project presentations
@@ -327,6 +328,15 @@ days.
   * [Practice CTF List and Archive](http://captf.com/practice-ctf/)
 
 ## Updates!
+
+### March 23, 2015
+
+I've updated the course schedule.  prateekj and jburket get a buy on
+CTF presentations.
+
+Up until now, walkthroughs have mostly focused on how to solve
+particular problems.  Going forward, please emphasize *tricks* for
+solving a type of problem. 
 
 ### March 2, 2015
 The schedule is updated!  Fewer things all around.
