@@ -307,8 +307,8 @@ days.
   * 3/18. CTF Problem proposal 2 due. Wargame walkthrough (kvikramj, wsnavely).
   * 3/23. class canceled. 
   * 3/25. CTF Problem Proposal 2 5 minute lightening talks
-  * 3/30. Wargame walkthrough.
-  * 4/1.  Research update #1. Wargame walkthrough (cganas, rvantond)
+  * 3/30. Wargame walkthrough. (sejoonc, cganas)
+  * 4/1.  Research update #1. Wargame walkthrough (tjbecker)
   * 4/6.  Wargame walkthrough (edwillia, Sailesh)
   * 4/8.  IO due. Wargame walkthrough (cdw1, rajivk)
   * 4/13. CTF Problem 2 due. Wargame walkthrough (jlareau, ecwong)
