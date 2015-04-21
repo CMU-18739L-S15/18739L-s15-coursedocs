@@ -193,6 +193,34 @@ problems solved in class that your project helps solve.
 As an example of a steller, independently-motivated project, look no
 further than [Qira](https://github.com/BinaryAnalysisPlatform/qira). 
 
+### Final Report and Grading
+
+Students will prepare a 7 minute presentation covering their
+project.  The presentation should include the following parts:
+  * An overview of the problem domain.
+  * Several example CTF problems that are in scope for the research.
+  * Existing research, and how it applies to the CTF problems.
+  * The delta. This is what you did.
+  * A demo. Show off your code working on one of the problems.
+
+
+The project will be graded as follows:
+  * 5% of the project grade will be whether you conveyed all the
+    material within 7 minutes in your presentation. 1% will be
+    deducted per extra minute. (Experience shows we need incentive to
+    make sure this part runs efficiently.)
+  * 30% on the report.
+  * 30% on examples showing your research tool works. This is intended
+    to demonstrate the technical merit of the work: if you can show a
+    reduced time to exploit several CTF problems, or show enough
+    promise that this would be the case, then you will receive full
+    points. 
+  * 20% on compilable code checked into your class git repo.
+  * 15% on code quality (e.g., does pylint complain a lot? Do you have
+    a function that takes 13 parameters? How well does your code
+    document your assumptions and enforce the constraints of your
+    system? Stuff like that.)
+
 ## Grading
 
 Great hackers, as well as great researchers, are curious. They learn
@@ -271,7 +299,7 @@ check git's timestap.  Please do not ask for late days unless there
 was a true medical emergency. I die a little when I get asked for late
 days.
 
-  * 1/12. First day of class.  Everyone signs up for picoctf. .
+  * 1/12. First day of class.  Everyone signs up for picoctf.
   * 1/14. jburket presents picoCTF level 4: two problems. 
   * 1/19. No class. Martin Luther King Day
   * 1/21. Wargame walkthroughs. 
@@ -315,8 +343,8 @@ days.
   * 4/15. Research Update #3. In class meetings
   * _Note Carnival runs 4/17 - 4/20, with PlaidCTF._
   * 4/20. CTF Problem 2 gameplay.
-  * 4/22. Final project presentations
-  * 4/27. Final project presentations
+  * 4/22. ~~Final project presentations~~ Work day.
+  * 4/27. Final project presentations. 
   * 4/29. Final project presentations.
 
 
@@ -328,6 +356,30 @@ days.
   * [Practice CTF List and Archive](http://captf.com/practice-ctf/)
 
 ## Updates!
+
+### April 21, 2015
+
+13 total projects. 7 minutes a piece presentation. The grading and
+format for the final report has been updated in the Research section
+above. 
+
+*4/27:* 
+* Eric Azebu and Kumar Vikramjeet. A CTF library for RSA attacks.
+* Tim Becker, Chris Ganas, Edward Williamson. A Semantic Assisted
+  Symbolic Solver.
+* Se-Joon Chung. Visualization for Bug Minimization
+* Jonathan Burket. Propagating Library Type Information in BAP. 
+* Marlies Ruck. Stack Diagram Automation.
+* Sailesh Mukil. Qira Function Arguments Detection.
+* Rijnard Van Tonder. Identifying Vulnerabilities in Binary Code.
+
+*4/29*
+* Dillon Lareau. Automating Format String Attacks.
+* Prateek Jain. Automatic Exploit of Format String Vulnerabilities.
+* Christopher Williamson. Automated Vulnerability Detection.
+* Rajiv Kulkarni. Inferring Attacker-Controller Computations. 
+* Will Snavely. Instruction Counting.
+* Eliot Wong.  Symbolic execution with KLEE.
 
 ### March 23, 2015
 
@@ -424,3 +476,4 @@ In particular, I have the following equipment that you can use:
 I am happy to consider other equipment (say an RFID reader, or a DIY
 electronic door lock), but the above should provide some nice
 possibilities.
+
